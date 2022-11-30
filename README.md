@@ -10,4 +10,4 @@
 ### Contact
 
 - [Email](mailto:abialiauski.dev@gmail.com)
-- [Telegram](https://t.me/abialiauskiJavaDev)
+- [Telegram](https://t.me/h1alexbel)
